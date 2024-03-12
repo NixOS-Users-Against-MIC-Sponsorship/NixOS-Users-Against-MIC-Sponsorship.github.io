@@ -13,10 +13,10 @@ This single letter is addressed to multiple parties.
 
 ## To the Foundation
 
-We are asking to the NixOS Foundation to take a stance and clearly say that they do not want to see Nix, Nixpkgs, NixOS, NixCon, and its broader community to be used as a vehicle to ***advertise*** the Military Industrial Complex.
-We are also asking that the NixOS Foundation distances themselves from the North American Gathering's organization and decisions.
+We are asking the NixOS Foundation to reconsider their current stance and clearly position themselves against having Nix, Nixpkgs, NixOS, NixCon, and its broader community become a vehicle of ***advertisement*** for the Military Industrial Complex.
+We are also asking that the NixOS Foundation distances themselves from the North American Gathering's organization and decisions as well as previous decisions about endorsing this sponsor for the NixCon NA 2024.
 
-The lack of reply from the NixOS Foundation will be seen as tacit agreement with the sponsorship decisions, and using the project and its broader community to ***advertise*** the Military Industrial Complex.
+The lack of reply to this open letter from the NixOS Foundation will be seen as agreement with the sponsorship decisions, and using the project and its broader community to ***advertise*** the Military Industrial Complex.
 
 While a reply before the North American Gathering would be appreciated, it may take time to chalk up a proper reply.
 
